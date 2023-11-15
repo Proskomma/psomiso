@@ -11,4 +11,4 @@ A TSV Editor.
 
 ## screenshot
 
-![Psomiso screenshot](data/image.png)
+![Psomiso screenshot](data/screen.png)
