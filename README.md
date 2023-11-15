@@ -1,7 +1,9 @@
-# Tauri + React
+# Psomiso
 
-This template should help get you started developing with Tauri and React in Vite.
+`node version : 20.9.0`
+`npm version : 10.1.0`
 
-## Recommended IDE Setup
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+## install and build for dev 
+
+`npm i && npm run dev`
