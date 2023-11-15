@@ -29,7 +29,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>TSV editor</h1>
+      <h1>Psomiso</h1>
 
       <div className="row">
         <DropzoneComponent onChangeFilePath={setFilePath} />

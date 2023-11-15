@@ -7,7 +7,7 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "tsv_editor",
+    "productName": "psomiso",
     "version": "0.0.0"
   },
   "tauri": {
@@ -47,7 +47,7 @@
         "icons/icon.ico"
       ],
       "resources":["../data/*"],
-      "identifier": "com.tsv.dev",
+      "identifier": "com.psomiso.dev",
       "targets": "all"
     },
     "security": {
@@ -60,7 +60,7 @@
       {
         "fullscreen": false,
         "resizable": true,
-        "title": "tsv_editor",
+        "title": "psomiso",
         "width": 800,
         "height": 600
       }
